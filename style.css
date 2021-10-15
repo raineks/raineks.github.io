@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 .topnav {list-style-type: none;
   font-family: 'Lato', sans-serif;
-  background-color: #6daa7f;
+  background-color: #89a353;
   padding: 10px;
 }
 li {display : inline;
@@ -11,7 +11,7 @@ li a {padding: 5px;
 }
 .header {padding: 25px;
   text-align: center;
-  background: #1c3e0b;
+  background: #76894f;
   font-size: 16px;
 }
 body {background-color: #fef8d0;
