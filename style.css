@@ -4,9 +4,9 @@
   font-family: 'Lato', sans-serif;
 }
 li {display : inline;
+    background-color: #6daa7f;
 }
 li a {padding: 15px;
-  background-color: #6daa7f;
 }
 .header {padding: 25px;
   text-align: center;
