@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 .topnav {
 }
 li {display : inline;
@@ -23,6 +24,8 @@ h1 {font-family: 'Playfair Display', serif;
 b {font-family:"Garamond, Serif";
   font-size:1.25em;
   color: #291d0f;
+}
+#para {font-family: 'Lato', sans-serif;
 }
 #para1 {font-family: "Garamond, Serif"; 
 }
