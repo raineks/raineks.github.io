@@ -4,7 +4,8 @@
   font-family: 'Lato', sans-serif;
 }
 li {display : inline;
-    background-color: #6daa7f;
+  background-color: #6daa7f;
+  padding: 10px;
 }
 li a {padding: 15px;
 }
