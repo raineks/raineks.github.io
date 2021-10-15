@@ -6,6 +6,7 @@ body {
 h1 {font-family: "Garamond, Serif";
   font-size: 1.5em;
   color: #d19754;
+  float : left;
 }
 b {font-family:"Garamond, Serif";
   font-size:1.25em;
