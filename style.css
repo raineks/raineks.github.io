@@ -12,6 +12,8 @@ body {
 }
 h1 {font-family: "Garamond, Serif";
   color: #291d0f;
+  border-style: ridge;
+  border-width: medium;
 }
 b {font-family:"Garamond, Serif";
   font-size:1.25em;
