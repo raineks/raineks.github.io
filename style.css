@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 .topnav {list-style-type: none;
   font-family: 'Lato', sans-serif;
+}
+li {display : inline;
   background-color: #6daa7f;
   padding: 10px;
 }
-li {display : inline;
-}
-li a {padding: 15px;
+li a {
 }
 .header {padding: 25px;
   text-align: center;
