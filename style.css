@@ -3,10 +3,10 @@ body {
 }
 .topnav {
 }
-.header {padding: 45px;
-  text-align: center;
+.header {padding: 20px;
+  text-align: left;
   background: #d9811c;
-  font-size: 30px;
+  font-size: 16px;
 }
 h1 {font-family: "Garamond, Serif";
   color: #291d0f;
