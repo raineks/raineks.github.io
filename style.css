@@ -1,9 +1,8 @@
-.topnav {display : inline;
+.topnav {
 }
-li {
+li {display : inline;
 }
-li a {display: block;
-  padding: 16px;
+li a {padding: 10px;
   background-color #681cd9;
 }
 .header {padding: 20px;
