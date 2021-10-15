@@ -3,8 +3,8 @@ body {
 }
 .topnav {
 }
-.header {padding: 60px;
-  text-align: left;
+.header {padding: 100px;
+  text-align: center;
   background: #d9811c;
   font-size: 30px;
 }
