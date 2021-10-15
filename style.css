@@ -9,6 +9,7 @@
 li {display : inline;
 }
 li a {padding: 5px;
+  text-decoration: none;
 }
 .header {padding: 20px;
   text-align: center;
