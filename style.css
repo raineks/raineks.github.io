@@ -1,5 +1,7 @@
 .topnav { 
 }
+li { display : inline
+}
 .header {padding: 20px;
   text-align: left;
   background: #d9811c;
