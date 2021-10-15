@@ -1,7 +1,8 @@
 .topnav { 
 }
 li {display : inline;
-  display: block;
+}
+li a {display: block;
   padding: 16px;
   background-color #681cd9;
 }
