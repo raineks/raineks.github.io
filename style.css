@@ -17,6 +17,7 @@ h1 {font-family: 'Playfair Display', serif;
   color: #291d0f;
   border-style: ridge;
   display: inline;
+  padding: 8px;
   border-width: medium;
 }
 b {font-family:"Garamond, Serif";
