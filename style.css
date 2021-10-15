@@ -1,14 +1,14 @@
 .topnav { 
 }
-li { display : inline
+li {display : inline;
+  display: block;
 }
 .header {padding: 20px;
   text-align: left;
   background: #d9811c;
   font-size: 16px;
 }
-body {
-  background-color: #a89682;
+body {background-color: #a89682;
 }
 h1 {font-family: "Garamond, Serif";
   color: #291d0f;
