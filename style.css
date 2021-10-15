@@ -19,7 +19,7 @@ body {background-color: #fef8d0;
 h1 {font-family: 'Playfair Display', serif;
   color: black;
   border-style: ridge;
-  display: inline;
+  <-- display: inline;-->
   padding: 8px;
   border-width: medium;
 }
