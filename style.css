@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 .topnav {list-style-type: none;
   font-family: 'Lato', sans-serif;
+  text-decoration: ;
 }
 li {display : inline;
   background-color: #6daa7f;
