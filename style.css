@@ -1,6 +1,6 @@
-.topnav { 
+.topnav {display : inline;
 }
-li {display : inline;
+li {
 }
 li a {display: block;
   padding: 16px;
