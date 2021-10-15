@@ -18,12 +18,14 @@ li a:hover {background-color: #4d6914;
   background: #76894f;
   font-size: 18px;
 }
-body {background-color: #e5f2e5;
+body {background-color: #fef8d0;
   <--#fef8d0-->
+  <--#e5f2e5-->
 }
 h1 {font-family: 'Playfair Display', serif;
   color: black;
   border-style: ridge;
+  border-color: #fef8d0;
   <-- display: inline;-->
   padding: 8px;
   border-width: medium;
