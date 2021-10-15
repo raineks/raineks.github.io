@@ -2,6 +2,7 @@
 }
 li {display : inline;
   display: block;
+  padding: 16px;
 }
 .header {padding: 20px;
   text-align: left;
