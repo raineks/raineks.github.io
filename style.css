@@ -10,13 +10,13 @@ li a {padding: 40px;
 }
 .header {padding: 30px;
   text-align: center;
-  background: #d9811c;
+  background: #1c3e0b;
   font-size: 16px;
 }
 body {background-color: #a89682;
 }
 h1 {font-family: 'Playfair Display', serif;
-  color: #1c3e0b;
+  color: black;
   border-style: ridge;
   display: inline;
   padding: 8px;
