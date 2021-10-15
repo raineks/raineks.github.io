@@ -5,10 +5,10 @@
 }
 li {display : inline;
 }
-li a {padding: 40px;
+li a {padding: 15px;
   background-color: #6daa7f;
 }
-.header {padding: 20px;
+.header {padding: 25px;
   text-align: center;
   background: #1c3e0b;
   font-size: 16px;
