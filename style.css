@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;900&display=swap');
 .topnav {
 }
 li {display : inline;
@@ -14,6 +14,7 @@ li a {padding: 20px;
 body {background-color: #a89682;
 }
 h1 {font-family: 'Playfair Display', serif;
+  display-weight: 900;
   color: #291d0f;
   border-style: ridge;
   display: inline;
