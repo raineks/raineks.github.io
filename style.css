@@ -11,6 +11,8 @@ li {display : inline;
 li a {padding: 5px;
   text-decoration: none;
 }
+li a:hover {background-color: #4d6914;
+}
 .header {padding: 20px;
   text-align: center;
   background: #76894f;
