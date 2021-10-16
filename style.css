@@ -23,6 +23,7 @@ li a:hover {background-color: #4d6914;
   text-align: center;
   background: #76894f;
   font-size: 18px;
+  display: block;
   margin: 0px;
 }
 body {background-color: #fef8d0;
