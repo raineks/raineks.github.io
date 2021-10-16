@@ -23,8 +23,8 @@ li a:hover {background-color: #4d6914;
   text-align: center;
   background: #76894f;
   font-size: 18px;
-  width: 100%;
-  margin: 0px;
+  /* width: 100%; 
+  margin: 0px; */
 }
 body {background-color: #fef8d0;
   /* #fef8d0 */
