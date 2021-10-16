@@ -61,5 +61,6 @@ p {font-family: 'Work Sans:', sans-serif;
   display: inline-block;
   border-colour: #76894f;
   border-width: 8px;
+  float: left;
 }
 
