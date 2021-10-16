@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 
-.topnav {list-style-type: none;
+.topnav *{list-style-type: none;
   font-family: 'Lato', sans-serif;
   background-color: #89a353;
   padding: 10px;
@@ -16,7 +16,7 @@ li a {padding: 5px;
 li a:hover {background-color: #4d6914;
   color: #fef8d0;
 }
-.header {padding: 20px;
+.header *{padding: 20px;
   text-align: center;
   background: #76894f;
   font-size: 18px;
