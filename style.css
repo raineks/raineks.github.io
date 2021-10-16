@@ -42,3 +42,8 @@ p {font-family:"Garamond, Serif";
 }
 #para1 {font-family: "Garamond, Serif"; 
 }
+#para2 {font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  border-style: outset;
+  border-colour: #4d6914;
+}
