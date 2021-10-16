@@ -65,11 +65,11 @@ p {font-family: 'Work Sans:', sans-serif;
   margin-right: 200px;
   margin-left: 20px;
 }
-.mapframe {border-style: solid;
+/*-- .mapframe {border-style: solid;
   display: inline-block;
   border-color: #76894f;
   border-width: 8px;
-}
+} --*/
 
 #homepage { text-align: center;
   font-family: 'Work Sans', sans-serif;
@@ -79,4 +79,9 @@ p {font-family: 'Work Sans:', sans-serif;
 img {
   float: left;
   margin-left: 200px;
+  margin-right:20px;
+  border-style: solid;
+  display: inline-block;
+  border-color: #76894f;
+  border-width: 8px;
 }
