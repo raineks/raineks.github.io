@@ -9,7 +9,6 @@
 li {display : inline;
 }
 li a {padding: 5px;
-  float: left;
   text-decoration: none;
   color: black;
 }
