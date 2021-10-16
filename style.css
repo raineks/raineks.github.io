@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');      /* -- imported fonts from Google Fonts, https://fonts.google.com/ --*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 /* --- @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,600&display=swap'); --- */ 
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
-.topnav {list-style-type: none;
+.topnav {list-style-type: none;     /* -- navigation bar formatting --*/
   font-family: 'Lato', sans-serif;
   background-color: #89a353;
   padding: 10px;
@@ -16,22 +16,30 @@ li a {padding: 5px;
   text-decoration: none;
   color: black;
 }
-li a:hover {background-color: #4d6914;
+li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   color: #fef8d0;
 }
-.header {padding: 20px;
+.header {padding: 20px;       /* -- formatting/styling of header --*/
   text-align: center;
   background: #76894f;
   font-size: 18px;
   /* --- width: 100%; 
-  margin: 0px; --- */
-}
-body {background-color: #fef8d0;
+  margin: 0px; 
+  formatting attempts
+  --- */
+} 
+
+body {background-color: #fef8d0;    /* -- main background colour of all three pages  --*/
   /* --- #fef8d0
    #e5f2e5 
-  margin: 8px; --*/
+  margin: 8px; 
+  different colours and foramtting attempts
+  --*/
 }
-h1 {font-family: 'Playfair Display', serif;
+
+/* -- Playfair display, Work sans and Lato fonts were all sourced and imported from google fonts, https://fonts.google.com/ --*/
+
+h1 {font-family: 'Playfair Display', serif;     /* -- top of page heading formatting/styling --*/
   color: black;
   border-style: ridge;
   border-color: #4d6914;
@@ -39,7 +47,7 @@ h1 {font-family: 'Playfair Display', serif;
   padding: 8px;
   border-width: medium;
 }
-p {font-family: 'Work Sans:', sans-serif;
+p {font-family: 'Work Sans:', sans-serif;   /* -- main p formatting --*/
   font-size:1.25em;
   color: #291d0f;
   line-height: 150%;
@@ -48,19 +56,29 @@ p {font-family: 'Work Sans:', sans-serif;
   font-size: 18px;
 }
 
-/* --- #para2 {font-family: 'Lato', sans-serif;
+/* ---
+#para1 {font-family: 'Work Sans', sans-serif;
+            font-size: 12px;
+        }
+
+#para2 {font-family: 'Lato', sans-serif;
   font-size: 18px;
   outline-style: ridge;
   outline-color: #4d6914;
   outline-width: medium;
-} --- */
+} 
 
-#para3 { float: right;
+multiple attempts to create the desired style and formatting
+--- */
+
+#para3 { float: right;                /* -- text formatting beside images --*/
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   margin-right: 200px;
   margin-left: 20px;
 }
+
+
 /*-- .mapframe {border-style: solid;
   display: inline-block;
   border-color: #76894f;
@@ -72,7 +90,7 @@ p {font-family: 'Work Sans:', sans-serif;
   font-size: 18px;
 }
 
-img {
+img {                  /* -- image location and styling on home and field experience pages --*/ 
   float: left;
   margin-left: 200px;
   margin-right:20px;
