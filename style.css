@@ -3,13 +3,13 @@
 
 .topnav {list-style-type: none;
   font-family: 'Lato', sans-serif;
-  colour: black;
   background-color: #89a353;
   padding: 10px;
 }
 li {display : inline;
 }
 li a {padding: 5px;
+  float: left;
   text-decoration: none;
   color: black;
 }
