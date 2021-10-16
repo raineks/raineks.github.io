@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+
 .topnav {list-style-type: none;
   font-family: 'Lato', sans-serif;
   colour: black;
@@ -12,6 +13,7 @@ li a {padding: 5px;
   text-decoration: none;
 }
 li a:hover {background-color: #4d6914;
+  color: #fef8d0;
 }
 .header {padding: 20px;
   text-align: center;
@@ -19,14 +21,14 @@ li a:hover {background-color: #4d6914;
   font-size: 18px;
 }
 body {background-color: #fef8d0;
-  <!--#fef8d0-->
-  <!--#e5f2e5-->
+  /* #fef8d0 */
+  /* #e5f2e5 */
 }
 h1 {font-family: 'Playfair Display', serif;
   color: black;
   border-style: ridge;
   border-color: #fef8d0;
-  <!-- display: inline;-->
+  /* display: inline; */
   padding: 8px;
   border-width: medium;
 }
