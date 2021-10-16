@@ -28,8 +28,8 @@ li a:hover {background-color: #4d6914;
 }
 body {background-color: #fef8d0;
   /* --- #fef8d0
-   #e5f2e5 --- */
-  margin: 8px;
+   #e5f2e5 
+  margin: 8px; --*/
 }
 h1 {font-family: 'Playfair Display', serif;
   color: black;
@@ -62,7 +62,7 @@ p {font-family: 'Work Sans:', sans-serif;
 #para3 { float: right;
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  margin: 8px;
+  padding: 20px;
 }
 .mapframe {border-style: solid;
   display: inline-block;
