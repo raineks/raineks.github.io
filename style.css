@@ -48,7 +48,6 @@ p {font-family: 'Work Sans:', sans-serif;
 
 #para1 {font-family: 'Work Sans', sans-serif;
   font-size: 12px;
-  float: right;
 }
 
 #para2 {font-family: 'Lato', sans-serif;
@@ -61,6 +60,5 @@ p {font-family: 'Work Sans:', sans-serif;
   display: inline-block;
   border-color: #76894f;
   border-width: 8px;
-  float: left;
 }
 
