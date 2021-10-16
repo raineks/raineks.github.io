@@ -62,6 +62,7 @@ p {font-family: 'Work Sans:', sans-serif;
 #para3 { float: right;
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
+  margin-right: 40px;
 }
 .mapframe {border-style: solid;
   display: inline-block;
