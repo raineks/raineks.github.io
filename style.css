@@ -57,4 +57,5 @@ p {font-family: 'Work Sans', sans-serif;;
 .mapframe {border-style: double;
   border-colour: #4d6914;
   border-width: 5px;
+  display: block;
 }
