@@ -63,6 +63,7 @@ p {font-family: 'Work Sans:', sans-serif;
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   margin-right: 200px;
+  margin-left: 20px;
 }
 .mapframe {border-style: solid;
   display: inline-block;
@@ -77,4 +78,5 @@ p {font-family: 'Work Sans:', sans-serif;
 
 img {
   float: left;
+  margin-left: 200px;
 }
