@@ -6,7 +6,7 @@
   background-color: #89a353;
   padding: 10px;
 }
-*{ margin: 0px; }
+.topnav *{ margin: 0px; }
 
 li {display : inline;
 }
