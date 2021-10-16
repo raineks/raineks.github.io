@@ -58,6 +58,10 @@ p {font-family: 'Work Sans:', sans-serif;
   outline-width: medium;
 } --- */
 
+#para3 { float: right;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+}
 .mapframe {border-style: solid;
   display: inline-block;
   border-color: #76894f;
@@ -66,5 +70,5 @@ p {font-family: 'Work Sans:', sans-serif;
 
 #homepage { text-align: center;
   font-family: 'Work Sans', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
