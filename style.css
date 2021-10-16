@@ -73,3 +73,6 @@ p {font-family: 'Work Sans:', sans-serif;
   font-family: 'Work Sans', sans-serif;
   font-size: 18px;
 }
+
+.img { float: left;
+}
