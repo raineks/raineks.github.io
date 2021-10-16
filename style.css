@@ -54,12 +54,12 @@ p {font-family: 'Work Sans:', sans-serif;
 #para2 {font-family: 'Lato', sans-serif;
   font-size: 18px;
   outline-style: ridge;
-  outline-colour: #4d6914;
+  outline-color: #4d6914;
   outline-width: medium;
 }
 .mapframe {border-style: solid;
   display: inline-block;
-  border-colour: #76894f;
+  border-color: #76894f;
   border-width: 8px;
   float: left;
 }
