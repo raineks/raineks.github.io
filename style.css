@@ -46,6 +46,6 @@ p {font-family:"Garamond, Serif";
 }
 #para2 {font-family: 'Lato', sans-serif;
   font-size: 18px;
-  border-style: outset;
+  outline-style: outset;
   outline-colour: #4d6914;
 }
