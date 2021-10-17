@@ -18,7 +18,7 @@ li a {padding: 5px;
 li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   color: #d9d2c5;
 }
-.header {padding: 20px;       /* -- formatting/styling of header --*/
+.header {      /* -- formatting/styling of header --*/
   text-align: center;
   background: #4f592c;
   font-size: 18px;
