@@ -13,7 +13,7 @@ li {display : inline;
 }
 li a {padding: 5px;
   text-decoration: none;
-  color: black;
+  color: #39402c;
 }
 li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   color: #d9d2c5;
@@ -39,7 +39,7 @@ body {background-color: #d9d2c5;    /* -- main background colour of all three pa
 /* -- Playfair display, Work sans and Lato fonts were all sourced and imported from google fonts, https://fonts.google.com/ --*/
 
 h1 {font-family: 'Playfair Display', serif;     /* -- top of page heading formatting/styling --*/
-  color: black;
+  color: #39402c;
   border-style: ridge;
   border-color: #4d6914;
   /* --- display: inline; --- */
