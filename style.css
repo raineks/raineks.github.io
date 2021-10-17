@@ -58,7 +58,6 @@ p {font-family: 'Work Sans:', sans-serif;   /* -- main p formatting --*/
 .paragraph { float: right;                /* -- text formatting --*/
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  text-align:center;
   margin-right: 200px;
   margin-left: 20px;
 }
