@@ -6,7 +6,7 @@
 .topnav {list-style-type: none;     /* -- navigation bar formatting --*/
   font-family: 'Lato', sans-serif;
   background-color: #89a353;
-  padding: 10px;
+  padding: 5px;
 }
 
 li {display : inline;
@@ -18,7 +18,7 @@ li a {padding: 5px;
 li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   color: #d9d2c5;
 }
-.header {      /* -- formatting/styling of header --*/
+.header {padding: 20px;    /* -- formatting/styling of header --*/
   text-align: center;
   background: #4f592c;
   font-size: 18px;
