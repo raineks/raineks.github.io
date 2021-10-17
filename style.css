@@ -71,12 +71,30 @@ p {font-family: 'Work Sans:', sans-serif;   /* -- main p formatting --*/
 multiple attempts to create the desired style and formatting
 --- */
 
-#para3 { float: right;                /* -- text formatting beside images --*/
+.paragraph { float: right;                /* -- text formatting --*/
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   margin-right: 200px;
   margin-left: 20px;
 }
+/* #para4 { float: right;                
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  margin-right: 200px;
+  margin-left: 20px;
+}
+#para5 { float: right;                
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  margin-right: 200px;
+  margin-left: 20px;
+}
+#para6 { float: right;                
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  margin-right: 200px;
+  margin-left: 20px;
+}  */
 
 
 /*-- .mapframe {border-style: solid;
@@ -85,12 +103,28 @@ multiple attempts to create the desired style and formatting
   border-width: 8px;
 } --*/
 
-#homepage { text-align: center;
+.subtitle { text-align: center;
   font-family: 'Work Sans', sans-serif;
   font-size: 18px;
 }
+/* #subtitle2 { text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+}
+#subtitle3 { text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+}
+#subtitle4 { text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+}
+#subtitle5 { text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+} */
 
-#para3 img {                  /* -- image location and styling on home and field experience pages --*/ 
+img {                  /* -- image location and styling on home and field experience pages --*/ 
   float: left;
   margin-left: 200px;
   margin-right:20px;
