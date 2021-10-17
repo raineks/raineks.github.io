@@ -109,11 +109,11 @@ h2 {float: left;
 .gallery {
   margin: 5px;
   float: left;
-  width: 180px;
+  width: 200px;
   padding: 15px;
 }
 
-.gallery img { width: 260px;
-  height: 340px;
+.gallery img { width: 100%;
+  height: auto;
 }
 
