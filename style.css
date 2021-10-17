@@ -100,3 +100,8 @@ img {                  /* -- image location and styling on home and field experi
   border-color: #76894f;
   border-width: 8px;
 }
+
+h2 {float: left;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 18px;
+}
