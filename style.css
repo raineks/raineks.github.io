@@ -77,24 +77,6 @@ multiple attempts to create the desired style and formatting
   margin-right: 200px;
   margin-left: 20px;
 }
-/* #para4 { float: right;                
-  font-family: 'Work Sans', sans-serif;
-  font-size: 16px;
-  margin-right: 200px;
-  margin-left: 20px;
-}
-#para5 { float: right;                
-  font-family: 'Work Sans', sans-serif;
-  font-size: 16px;
-  margin-right: 200px;
-  margin-left: 20px;
-}
-#para6 { float: right;                
-  font-family: 'Work Sans', sans-serif;
-  font-size: 16px;
-  margin-right: 200px;
-  margin-left: 20px;
-}  */
 
 
 /*-- .mapframe {border-style: solid;
@@ -107,22 +89,6 @@ multiple attempts to create the desired style and formatting
   font-family: 'Work Sans', sans-serif;
   font-size: 18px;
 }
-/* #subtitle2 { text-align: center;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 18px;
-}
-#subtitle3 { text-align: center;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 18px;
-}
-#subtitle4 { text-align: center;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 18px;
-}
-#subtitle5 { text-align: center;
-  font-family: 'Work Sans', sans-serif;
-  font-size: 18px;
-} */
 
 img {                  /* -- image location and styling on home and field experience pages --*/ 
   float: left;
