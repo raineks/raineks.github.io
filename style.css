@@ -16,11 +16,11 @@ li a {padding: 5px;
   color: black;
 }
 li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
-  color: #fef8d0;
+  color: #d9d2c5;
 }
 .header {padding: 20px;       /* -- formatting/styling of header --*/
   text-align: center;
-  background: #76894f;
+  background: #4f592c;
   font-size: 18px;
   /* --- width: 100%; 
   margin: 0px; 
@@ -28,7 +28,7 @@ li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   --- */
 } 
 
-body {background-color: #fef8d0;    /* -- main background colour of all three pages  --*/
+body {background-color: #d9d2c5;    /* -- main background colour of all three pages  --*/
   /* --- #fef8d0
    #e5f2e5 
   margin: 8px; 
@@ -55,34 +55,12 @@ p {font-family: 'Work Sans:', sans-serif;   /* -- main p formatting --*/
   font-size: 18px;
 }
 
-/* ---
-#para1 {font-family: 'Work Sans', sans-serif;
-            font-size: 12px;
-        }
-
-#para2 {font-family: 'Lato', sans-serif;
-  font-size: 18px;
-  outline-style: ridge;
-  outline-color: #4d6914;
-  outline-width: medium;
-} 
-
-multiple attempts to create the desired style and formatting
---- */
-
 .paragraph { float: right;                /* -- text formatting --*/
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   margin-right: 200px;
   margin-left: 20px;
 }
-
-
-/*-- .mapframe {border-style: solid;
-  display: inline-block;
-  border-color: #76894f;
-  border-width: 8px;
-} --*/
 
 .subtitle { text-align: center;
   font-family: 'Work Sans', sans-serif;
