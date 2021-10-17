@@ -105,3 +105,10 @@ h2 {float: left;
   font-family: 'Work Sans', sans-serif;
   font-size: 18px;
 }
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
