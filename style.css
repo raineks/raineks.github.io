@@ -90,7 +90,7 @@ multiple attempts to create the desired style and formatting
   font-size: 18px;
 }
 
-img {                  /* -- image location and styling on home and field experience pages --*/ 
+#para3 img {                  /* -- image location and styling on home and field experience pages --*/ 
   float: left;
   margin-left: 200px;
   margin-right:20px;
