@@ -110,11 +110,9 @@ h2 {float: left;
   margin: 5px;
   float: left;
   width: 180px;
-  display: inline-block;
 }
 
 .gallery img { width: 260px;
   height: 340px;
-  display:inline-block;
 }
 
