@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 /* --- @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@1,600&display=swap'); --- */ 
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
-
-.topnav {list-style-type: none;     /* -- navigation bar formatting --*/
+ 
+.topnav {list-style-type: none;     /* -- navigation bar formatting | source: w3schools (https://www.w3schools.com/css/css_navbar.asp) --*/
   font-family: 'Lato', sans-serif;
   background-color: #89a353;
   padding: 5px;
@@ -18,8 +18,9 @@ li a {padding: 5px;
 li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   color: #d9d2c5;
 }
-.header {padding: 20px;    /* -- formatting/styling of header --*/
-  text-align: center;
+
+.header {padding: 20px;    /* -- formatting/styling of header source: w3schools (https://www.w3schools.com/tags/tag_header.asp)--*/
+text-align: center;       /* -- colour choice  to complement the theme of outside field work -- */
   background: #4f592c;
   font-size: 18px;
   /* --- width: 100%; 
@@ -28,7 +29,7 @@ li a:hover {background-color: #4d6914;    /* -- dynamic changes in nav bar --*/
   --- */
 } 
 
-body {background-color: #d9d2c5;    /* -- main background colour of all three pages  --*/
+body {background-color: #d9d2c5;    /* -- main background colour of all three pages, design choice: subtle colouor to complement the green accents --*/
   /* --- #fef8d0
    #e5f2e5 
   margin: 8px; 
@@ -55,7 +56,7 @@ p {font-family: 'Work Sans:', sans-serif;   /* -- main p formatting --*/
   font-size: 18px;
 }
 
-.paragraph { float: right;                /* -- text formatting --*/
+.paragraph { float: right;                /* -- text formatting, float and margins to keep text in more centered in the page with the images --*/
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
   margin-right: 200px;
@@ -67,7 +68,7 @@ p {font-family: 'Work Sans:', sans-serif;   /* -- main p formatting --*/
   font-size: 18px;
 }
 
-.paragraph img {                  /* -- image location and styling on home and field experience pages --*/ 
+.paragraph img {                  /* -- image location and styling on home and field experience pages, keeping consistent with images on the other pages (colour/style) --*/ 
   float: left;
   margin-left: 200px;
   margin-right:20px;
@@ -83,14 +84,14 @@ h2 {float: left;
   font-size: 18px;
 }
 
-.gallery {
+.gallery {    /* -- gallery page formatting -- */
   margin: 5px;
   float: left;
   width: 200px;
   padding: 10px;
 }
-
-.gallery img { width: 100%;
+/* formatting for the images on the gallery, keeping consistent with the images on the other pages (colour/style) resizing image border to be appropriate for this page */
+.gallery img { width: 100%;   
   height: auto;
   border-style: solid;
   border-radius: 25px;
